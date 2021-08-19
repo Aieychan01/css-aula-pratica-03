@@ -1,0 +1,61 @@
+section {
+    width: 80vw;
+    height: 85vh;
+    border: solid 2px black;
+    background-image: linear-gradient(45deg, rgb(22, 116, 223), rgb(180, 37, 37));
+}
+
+#comeco {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+    border: solid 2px white;
+    background-color: rgb(165, 64, 224);
+    padding-bottom: 5px;
+    border-radius: 5px;
+    width: 450px;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+
+header {
+    display: flex;
+    justify-content: center; 
+}
+
+#conteudo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    border-radius: 5px;
+    border: solid gray 2px;
+    background-color: rgb(120, 226, 230);
+    color: rgb(41, 40, 34);
+    margin: 50px;
+    width: 50px;
+    font-variant: small-caps;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+#conteudo2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+#conteudo3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    color: lightcoral;
+    margin-left: 60px;
+}
+
+#fim {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: underline white;
+    text-align: right;
+    margin-right: 10px;
+}

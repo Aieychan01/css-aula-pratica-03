@@ -1,0 +1,21 @@
+p {
+    color: blue;
+    font-size: 12px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+#divi {
+    color: pink;
+    width: 60%;
+    height: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    background-color: coral;
+}
