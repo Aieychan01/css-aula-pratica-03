@@ -1,21 +1,28 @@
 p {
     color: blue;
     font-size: 12px;
+    letter-spacing: 3em; /*espaçamento entre letras*/
+    word-spacing: 4px; /*espaçamento entre palavras*/
+    height: 3em;
+    text-indent: 25px; /*indentação do texto*/
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1, h2 {
+h1 {
     color: red;
     font-style: italic;
     text-align: center;
+    word-spacing: 10px;
 }
 
-#divi {
+div {
     color: pink;
     width: 60%;
     height: 400px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    word-spacing: 6px;
     text-align: right;
     background-color: coral;
 }
